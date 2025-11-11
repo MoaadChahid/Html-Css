@@ -1,0 +1,86 @@
+.toboolist{
+    margin: 20px 0;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ADD{
+    padding-left: 250px;
+    padding-top: 50px;
+    
+}
+main{
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(183, 183, 183);
+}
+#Addtask{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(19, 139, 203);
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Addsection{
+    border-radius: 12px;
+    background-color: rgb(239, 242, 243);
+    padding: 10px 20px;
+    border-style: solid;
+    border-color: rgb(181, 181, 181);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Iniziosezioni{
+    padding-left: 250px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Simboli{
+    padding-right: 10px;
+}
+.Edit{
+    padding-left: 250px;
+    padding-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Edit2{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(19, 139, 203);
+    padding: 10px 25px;
+    margin-left: 5px;
+}
+#Q1{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(164, 64, 217);
+    padding: 10px 25px;
+    margin-left: 5px;
+}
+#john{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(14, 163, 104);
+    padding: 10px 25px;
+    margin-left: 5px;
+}
+#Mobile{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(226, 142, 58);
+    padding: 10px 25px;
+    margin-left: 5px;
+}
+#Website{
+ color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(220, 78, 187);
+    padding: 10px 25px;
+    margin-left: 5px;   
+}
+#Sales{
+    color: aliceblue;
+    border-radius: 12px;
+    background-color: rgb(61, 201, 25);
+    padding: 10px 25px;
+    margin-left: 5px;   
+}

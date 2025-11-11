@@ -1,0 +1,54 @@
+.logo{
+    padding-right: 85%;
+    background-color: rgb(1, 74, 211);
+    background-image:url(foto/pattern.png) ;
+    background-size: 25%;
+}
+main{
+
+}
+.img{
+margin: 20px 0;
+}
+    .sottotitolo{
+    font-size: 90%;
+    color: rgb(170, 198, 198);
+}
+#theboolean{
+color: aqua;
+}
+ .img{
+    padding-right: 80%;
+    text-align: left;
+}
+.sottoimage{
+    font-size: 70%;
+}
+.sottolineato{
+    background-color: yellow;
+}
+
+.colonna{
+ background-color: rgb(0, 125, 188);
+
+}
+.sfondo{
+    background-color: rgb(2, 187, 255);
+}
+.tablealone{
+    background-color: rgb(113, 113, 113);
+}
+#img2{
+    background-image:url(foto/monitor.jpg);
+    background-size: 125%;
+    width: 270px;
+    height: 270px;
+    color: white;
+}
+#img3{
+    background-image: url(foto/graph.jpg);
+    background-size: 125%;
+    width: 270px;
+    height: 270px;
+    color: white;
+}
