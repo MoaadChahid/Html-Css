@@ -1,0 +1,107 @@
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*colori*/
+.bg-azzuro {background-color: rgb(71, 133, 187);}
+.bg-blu{background-color: rgb(10, 10, 135);}
+.bg-white{background-color: white;}
+.bg-green{background-color: green;}
+.bg-grey{background-color: grey;}
+.bg-pink{background-color: palevioletred;}
+.bg-dark{background-color: rgb(26, 25, 25)}
+.bg-azzurolight{background-color: aqua;}
+.bg-azzurodark{background-color: rgb(26, 122, 122);}
+.bg-yellow{background-color: rgb(173, 157, 34);}
+.bg-blulight{background-color: rgb(7, 83, 175);}
+
+
+.container-inizio {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container-yellow {
+    border: 1px dashed black;
+    height: 40px;
+    width: 800px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+}
+
+.blocchi {
+    height: 800px;
+    width: 100%;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30% 0 30%;
+}
+.blocco-singolo{
+    height: 400px;
+    width: 700px;
+}
+.blocco-grande{
+    height: 400px;
+    flex-basis: 65%;
+}
+.blocco-small{
+    height: 400px;
+    flex-basis: 35%;
+}
+.border-dashed{
+    border: 2px dashed black;
+}
+.blocco-green{
+    height: 600px;
+    width: 700px;
+}
+.blocco-pink{
+    height: 500px;
+    flex-basis: 40%;
+
+}
+.blocchi-piccoli{
+    height: 500px;
+    flex-basis: 15%;
+}
+.blocco-finale{
+    height: 100px;
+    width: 100%;
+}
+.blocco-end{
+    height: 300px;
+    width: 100%;
+}
+.flex-end{
+   display: flex;
+    align-items: center;
+    padding: 11% 20% 0 20%;
+}
+.container-end{
+    border: 1px dashed black;
+    height: 20px;
+    width: 55px;
+    
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+    
+}
