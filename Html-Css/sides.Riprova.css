@@ -28,19 +28,30 @@
 
 }
 
+
 .container-yellow {
     border: 1px dashed black;
     height: 40px;
     width: 800px;
 }
-
-.logo {
+.logo{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding: 0px 10px 0px 10px;
+    justify-content: space-around;
 }
+.link{
+    display: inline-block;
+    margin: 0 282px 0 282px;
 
+    
+}
+.blocco-laterale{
+    border: 1px dashed black;
+    height: 40px;
+    width: 50px;
+    padding: 10px;
+
+}
 .blocchi {
     height: 800px;
     width: 100%;
